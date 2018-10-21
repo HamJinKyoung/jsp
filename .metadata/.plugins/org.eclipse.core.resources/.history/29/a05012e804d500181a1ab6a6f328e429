@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<context-param>
+	<description>로깅 여부</description>
+	<param-name>logEnabled</param-name>
+	<param-value>true</param-value>
+</context-param>
+
+<context-param>
+	<description>디버깅 레벨</description>
+	<param-name>debugLevel</param-name>
+	<param-value>5</param-value>
+</context-param>
