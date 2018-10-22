@@ -20,8 +20,7 @@
 		char[] buff = new char[128];
 		int len = -1;
 		
-		try(InputStreamReader br = new InputStreamReader(
-				application.getResourceAsStream(resourcePath),"UTF-8")) {
+		try(InputStreamReader br = new InputStreamReader(application.getResourceAsStream(resourcePath),"UTF-8")) {
 			while((len=br.read(buff))!= -1) {
 				out.print(new String(buff,0,len));
 			}
