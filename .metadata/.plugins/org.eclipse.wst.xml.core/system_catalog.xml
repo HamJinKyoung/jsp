@@ -193,11 +193,11 @@
   <system systemId="http://www.w3.org/2001/xml.xsd" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.xsd_2.14.0.v20180127-0547.jar!/cache/www.w3.org/2001/xml.xsd"/>
   <uri name="http://www.w3.org/2001/XMLSchema" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.xsd_2.14.0.v20180127-0547.jar!/cache/www.w3.org/2001/XMLSchema.xsd"/>
   <uri id="org.w3c.xinclude" name="http://www.w3.org/2001/XInclude" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.wst.xsl.core_1.1.301.v201405151730.jar!/xslt-schemas/xinclude.xsd"/>
-  <system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="jar:file:/C:/Users/HJK/.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/maven-v4_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/maven-4.0.0.xsd" uri="jar:file:/C:/Users/HJK/.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/maven-v4_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/settings-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/settings-v1_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/profiles-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/profiles-v1_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/archetype-1.0.0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/archetype-catalog-1.0.0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/archetype-descriptor-1.0.0.xsd"/>
+  <system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/maven-v4_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/maven-4.0.0.xsd" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/maven-v4_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/settings-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/settings-v1_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/profiles-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/profiles-v1_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/archetype-1.0.0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/archetype-catalog-1.0.0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="jar:file:/C:/Users/HJK/eclipse/jee-oxygen/eclipse/../../../.p2/pool/plugins/org.eclipse.m2e.model.edit_1.9.0.20180606-2036.jar!/xsd/archetype-descriptor-1.0.0.xsd"/>
 </catalog>
